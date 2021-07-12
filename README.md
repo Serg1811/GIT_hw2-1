@@ -1,28 +1,10 @@
-```markdown
-Вы можете встроить NeuroStartUp в ваши приложения с помощью следующих сниппетов (кусочков) кода.
-```
-JavaScript:
-```javascript
-`\`\`javascript
-<script src="https://localhost/neuro.sdk.min.js"></script>
-```
+# NeuroStartUp
 
+![](logo.png)
 
-Java (Maven):
-```xml
-`\`\`xml
-<dependency>
-  <groupId>neuro</groupId>
-  <artifactId>sdk</artifactId>
-  <version>1.0.0</version>
-</dependency>
-```
-`\`\`
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
-iOS (добавьте код в ваш Podfile):
-```
-`\`\`
-platform :ios, '8.0'
-pod "neuro-ios-sdk"
-`\`\`
-```
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
